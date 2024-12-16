@@ -10,7 +10,7 @@
 - **Description:** A powerful framework for faster, easier, and more efficient project development.
 
 ### [henrygd/beszel](https://github.com/henrygd/beszel)
-- **Description:** Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- **Description:** Lightweight server monitoring hub with historical data, docker stats, and alerts. 
 
 ### [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp)
 - **Description:** PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
